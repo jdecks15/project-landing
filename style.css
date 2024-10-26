@@ -1,0 +1,75 @@
+
+body {
+    background-color: black;
+}
+
+
+
+.color-box {
+    background-color: #1f2937;
+    height: 400px;
+    margin-top: -10px;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+   
+
+.one {
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    position: absolute; top: 10px; left: 550px;
+    display: flex;
+
+}
+.header {
+    color: white;
+    font: 'times new roman';
+    position: absolute; top: 120px; left: 550px;
+    line-height: .4;
+    font-weight: 900px;
+    font-size: 22px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header-text {
+    color: white;
+    font-size: 14px;
+    line-height: .4;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+#signup {
+    font-size: 23px;
+    margin-inline: 20px;
+    border: 20px;
+    border-color: black;
+    position: absolute; top: 330px; left:518px;
+    color: white;
+    background-color: #66b2ff;
+    border-radius: 10px;
+
+}
+#h1 a {
+    position: absolute; top: 20px;right: 750px;
+    font-size: 14px;
+    text-decoration: none;
+    
+}
+#h2 a {
+    position: absolute; top: 20px; right: 625px;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+#h3 a {
+    color: aliceblue;
+    position: absolute; top: 20px; right: 500px;
+    font-size: 14px;
+    text-decoration: none;
+}
